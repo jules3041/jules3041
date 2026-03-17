@@ -11,6 +11,7 @@
 Engineering student at **ENSAE Paris** on a gap year, focused on machine learning and applied AI, with applications to transport and mobility.
 
 Background in economics and finance (Paris Dauphine-PSL), transitioned to statistics and machine learning at ENSAE.
+
 ---
 
 ## ⚡ Tech Stack
@@ -95,17 +96,21 @@ End-to-end pipeline from **custom web scraping** to price prediction for Paris a
 ---
 ## 💼 Experience
 
+```
 2025–2026  ML Research Intern — GRETTIA, Université Gustave Eiffel
-           └─ Hierarchical CVAE with masked attention for household activity schedule synthesis
+           └─ Hierarchical CVAE with masked attention for household activity
+              schedule synthesis
               Statistical matching algorithms · Intra-household interaction modeling
 
 2025       Data Scientist Intern — Air France
-           └─ End-to-end predictive pipeline for maintenance disruptions & fleet availability
+           └─ End-to-end predictive pipeline for maintenance disruptions
+              & fleet availability
               GRU + ensemble models · NLP feature engineering (embeddings, clustering)
 
 2023–2024  Front-Office Market Operator Intern — Veolia
-           └─ FX hedging for the group's subsidiaries · Derivatives · Reporting automation
-
+           └─ FX hedging for the group's subsidiaries · Derivatives
+              Reporting automation
+```
 ---
 
 ## 📬 Get in Touch
