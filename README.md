@@ -4,27 +4,13 @@
 
 </div>
 
-<br/>
-
-```python
-class JulesHajjar:
-    role       = "ML Research Intern @ GRETTIA · Université Gustave Eiffel"
-    background = ["ENSAE Paris (IP Paris)", "Paris Dauphine - PSL"]
-    interests  = ["Deep Generative Models", "Deep Learning", "AI Agents", "Time Series Forecasting"]
-    currently  = "Building household-level CVAEs for activity schedule synthesis 🏠→🧠"
-    location   = "Paris, France 🇫🇷"
-```
-
-<br/>
-
 ---
 
 ##  About
 
-Engineering student at **ENSAE Paris** on a gap year, passionate about applying machine learning to systems with concrete societal impact.
+Engineering student at **ENSAE Paris** on a gap year, focused on machine learning and applied AI, with applications to transport and mobility.
 
-My path went from economics -> market finance -> data science. I decided to change education to follow what I love : models and applied AI.
-
+Background in economics and finance (Paris Dauphine-PSL), transitioned to statistics and machine learning at ENSAE.
 ---
 
 ## ⚡ Tech Stack
@@ -80,7 +66,7 @@ AI-powered recruiter that screens CVs and conducts **live voice interviews** wit
 - Post-interview scoring agent with **Gemini 2.5 Flash** → structured JSON (per-question scores, red flags, recommendation)
 - Full pipeline: apply → screen → email invite → interview → HR dashboard → decision
 
-`FastAPI` `Next.js` `OpenAI Realtime` `Gemini` `WebSockets` `Three.js`
+`FastAPI` `Next.js` `OpenAI Realtime` `Gemini` `WebSockets` 
 
 ---
 
@@ -91,7 +77,7 @@ ML pipeline for **daily residential gas consumption forecasting** in France, wit
 
 Reduced global MAPE by -19% and holiday MAPE by -29% through holiday oversampling, Optuna-tuned AutoML, and a 14-model ensemble.
 
-`CatBoost` `LightGBM` `XGBoost` `Optuna` `SHAP` `imbalanced-learn`
+`CatBoost` `Optuna` `SHAP` `imbalanced-learn`
 
 ---
 
@@ -107,21 +93,18 @@ End-to-end pipeline from **custom web scraping** to price prediction for Paris a
 `Selenium` `XGBoost` `geopy` `Pandas`
 
 ---
-
 ## 💼 Experience
 
-```
 2025–2026  ML Research Intern — GRETTIA, Université Gustave Eiffel
-           └─ Hierarchical CVAE for household activity schedule synthesis
-              Statistical matching algorithms · Interaction-aware generative models
+           └─ Hierarchical CVAE with masked attention for household activity schedule synthesis
+              Statistical matching algorithms · Intra-household interaction modeling
 
 2025       Data Scientist Intern — Air France
-           └─ GRU + ensemble models for fleet availability prediction
-              NLP feature engineering (embeddings, semantic clustering) · MLOps pipelines
+           └─ End-to-end predictive pipeline for maintenance disruptions & fleet availability
+              GRU + ensemble models · NLP feature engineering (embeddings, clustering)
 
 2023–2024  Front-Office Market Operator Intern — Veolia
-           └─ FX hedging for 2000+ subsidiaries · Derivatives · Automation tools
-```
+           └─ FX hedging for the group's subsidiaries · Derivatives · Reporting automation
 
 ---
 
