@@ -34,7 +34,6 @@ Background in economics and finance (Paris Dauphine-PSL), transitioned to statis
 **Specialties**
 
 ![VAE](https://img.shields.io/badge/Variational%20Autoencoders-1a1a2e?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP%20%2F%20Embeddings-1a1a2e?style=for-the-badge&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time%20Series-1a1a2e?style=for-the-badge&logoColor=white)
 
 </div>
